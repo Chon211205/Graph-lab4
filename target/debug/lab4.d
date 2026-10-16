@@ -1,0 +1,1 @@
+C:\Users\leejo\Desktop\lab4\target\debug\lab4.exe: C:\Users\leejo\Desktop\lab4\src\framebuffer.rs C:\Users\leejo\Desktop\lab4\src\main.rs C:\Users\leejo\Desktop\lab4\src\obj_loader.rs C:\Users\leejo\Desktop\lab4\src\triangle.rs

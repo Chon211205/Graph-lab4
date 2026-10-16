@@ -1,0 +1,10 @@
+C:\Users\leejo\Desktop\lab4\target\debug\deps\crc32fast-cff99793bec16cbe.d: C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\lib.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\baseline.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\combine.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\mod.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\table.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\pclmulqdq.rs
+
+C:\Users\leejo\Desktop\lab4\target\debug\deps\libcrc32fast-cff99793bec16cbe.rmeta: C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\lib.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\baseline.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\combine.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\mod.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\table.rs C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\pclmulqdq.rs
+
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\lib.rs:
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\baseline.rs:
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\combine.rs:
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\mod.rs:
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\table.rs:
+C:\Users\leejo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.2\src\specialized\pclmulqdq.rs:
